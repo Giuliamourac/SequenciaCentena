@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Programa
+namespace ConsoleApp2
 {
 
     class Centena
